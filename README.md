@@ -12,7 +12,7 @@ A static bookings website built with **HTML**, **CSS**, and **JavaScript** that 
 
 ## 🚀 Live Demo
 
-🔗 [Live Site URL](#) 
+🔗 [Live Site URL](https://sahithimavuram.github.io/BookingServicesStatic/) 
 
 ---
 
